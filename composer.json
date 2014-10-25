@@ -1,5 +1,6 @@
 {
     "name": "restly/routing",
+    "license": "MIT",
     "require": {
 
     },
