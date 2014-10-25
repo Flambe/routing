@@ -1,0 +1,14 @@
+{
+    "name": "restly/routing",
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Restly\\Kernel\\": "src"
+        }
+    }
+}
