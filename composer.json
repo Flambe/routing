@@ -2,6 +2,7 @@
     "name": "restly/routing",
     "license": "MIT",
     "require": {
+        "php": ">=5.4.0",
         "symfony/routing": "~2.5",
         "symfony/http-kernel": "~2.5",
         "illuminate/container": "~4.2"
